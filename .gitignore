@@ -3,5 +3,7 @@
 target/
 *.iml
 .idea/
-out/
+*.maFile
+*.json
+/out/
 ```
