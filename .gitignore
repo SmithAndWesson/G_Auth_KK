@@ -5,5 +5,5 @@ target/
 .idea/
 *.maFile
 *.json
-/out/
+out/
 ```
