@@ -3,5 +3,5 @@
 target/
 *.iml
 .idea/
-out/
+/out
 ```
